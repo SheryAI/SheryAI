@@ -1,8 +1,8 @@
 # 👋 Hi, I'm SheryAI!
 
-- 👀 I'm interested in web development, machine learning, and AI projects.
-- 🌱 I'm currently learning web development and data structures and algorithms in Java.
-- 💡 I'm passionate about creating end-to-end AI products with the help of tools like GPT.
+- 👀 I'm interested in Data Domain, machine learning, and AI projects.
+- 🌱 I'm currently Exploring data domain and  web development and data structures and algorithms in Java with Python.
+- 💡 I'm passionate about creating end-to-end AI products with the help of AI tools.
 - 🤝 I'm looking to collaborate with communities and individuals working on AI-based projects.
 
 ## 📫 How to Reach Me
